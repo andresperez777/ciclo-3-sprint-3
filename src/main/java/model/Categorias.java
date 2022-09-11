@@ -1,4 +1,4 @@
-package reto3.api.model;
+package sprint3.api.model;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import javax.persistence.*;
