@@ -1,4 +1,4 @@
-package reto3.api.web;
+package sprint3.api.web;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
