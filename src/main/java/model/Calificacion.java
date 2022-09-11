@@ -1,4 +1,4 @@
-package reto3.api.model;
+package sprint3.api.model;
 
 import javax.persistence.*;
 import java.io.Serializable;
